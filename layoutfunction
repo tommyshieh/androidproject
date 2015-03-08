@@ -1,0 +1,8 @@
+ android:textAppearance="?android:attr/textAppearanceLarge"
+ 
+ android:layout_alignParentTop="true"
+ 
+ 
+ text1
+ android:layout_alignParentRight="true"
+      android:layout_alignParentTop="true"
